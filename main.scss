@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 100vw;
+    height:200vh ;
+    background: #000;
+    .content{
+        width: 100vw;
+        height:100vh ;
+    }
+    .top{
+        background-image: url("img/kkk.jpg");
+        background-position-y: 0px;
+        background-repeat: no-repeat;
+        background-size: 20%;
+    }
+    .bottom{
+        background-image: url("img/timg.jpg");
+        background-position-y: 0px;
+        background-repeat: no-repeat;
+    }
+}
+
