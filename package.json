@@ -1,0 +1,25 @@
+{
+  "name": "dynamic_background",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenhongchun/dynamic_background.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "shenhongchun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shenhongchun/dynamic_background/issues"
+  },
+  "homepage": "https://github.com/shenhongchun/dynamic_background#readme",
+  "dependencies": {
+    "webpack": "^3.5.5"
+  }
+}
